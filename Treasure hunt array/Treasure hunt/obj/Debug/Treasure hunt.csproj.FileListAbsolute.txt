@@ -1,0 +1,29 @@
+C:\Users\nahom\source\repos\Treasure hunt\bin\Debug\Treasure hunt.exe.config
+C:\Users\nahom\source\repos\Treasure hunt\bin\Debug\Treasure hunt.exe
+C:\Users\nahom\source\repos\Treasure hunt\bin\Debug\Treasure hunt.pdb
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure hunt.csprojAssemblyReference.cache
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure_hunt.Form1.resources
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure_hunt.Properties.Resources.resources
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure hunt.csproj.GenerateResource.cache
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure hunt.csproj.CoreCompileInputs.cache
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure hunt.exe
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure hunt.pdb
+C:\Users\nahom\source\repos\Treasure hunt\bin\Debug\Interop.WMPLib.dll
+C:\Users\nahom\source\repos\Treasure hunt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Interop.WMPLib.dll
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nahom\source\repos\Treasure hunt\obj\Debug\Treasure hunt.csproj.ResolveComReference.cache
+E:\Treasure hunt array\Treasure hunt\bin\Debug\Treasure hunt.exe.config
+E:\Treasure hunt array\Treasure hunt\bin\Debug\Treasure hunt.exe
+E:\Treasure hunt array\Treasure hunt\bin\Debug\Treasure hunt.pdb
+E:\Treasure hunt array\Treasure hunt\bin\Debug\Interop.WMPLib.dll
+E:\Treasure hunt array\Treasure hunt\bin\Debug\AxInterop.WMPLib.dll
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Interop.WMPLib.dll
+E:\Treasure hunt array\Treasure hunt\obj\Debug\AxInterop.WMPLib.dll
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Treasure hunt.csproj.ResolveComReference.cache
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Treasure_hunt.Form1.resources
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Treasure_hunt.Properties.Resources.resources
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Treasure hunt.csproj.GenerateResource.cache
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Treasure hunt.csproj.CoreCompileInputs.cache
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Treasure hunt.exe
+E:\Treasure hunt array\Treasure hunt\obj\Debug\Treasure hunt.pdb
